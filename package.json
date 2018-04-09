@@ -1,0 +1,29 @@
+{
+  "name": "typescript-node",
+  "version": "1.0.0",
+  "description": "Demo Node + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "dependencies": {
+    "@types/node": "^7.0.22",
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "typescript": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaitqhust/TypeScript-Node.git"
+  },
+  "author": "Tran Quang Khai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaitqhust/TypeScript-Node/issues"
+  },
+  "homepage": "https://github.com/khaitqhust/TypeScript-Node#readme",
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
